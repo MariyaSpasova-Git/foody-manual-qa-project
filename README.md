@@ -1,5 +1,5 @@
 # Manual QA Project (Foody App)
-This repository contains all documentation and artifacts from a manual QA project for the Foody app. The Foody app is a training application used for the purposes of the QA Fundamentals and Manual Testing course.
+This repository contains all documentation and artifacts from a manual QA project for the Foody app, a web application for creating, sharing and managing food-related content. The Foody app is a training application used for the purposes of the QA Fundamentals and Manual Testing course.
 
 ## 🎯 Project Goal
 The primary goal of this project was to perform comprehensive functional manual testing on the Foody app. The objectives included:
