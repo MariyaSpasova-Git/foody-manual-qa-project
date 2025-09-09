@@ -21,6 +21,10 @@ To explore this project, you can follow these simple steps:
 
 - **View the Report**: Read the qa-report.md for a comprehensive summary of all test results and key findings.
 
+### 🔒 A Note on Security
+
+For security and privacy reasons, test usernames and passwords have been intentionally omitted from the test cases and bug reports. All tests were executed using a set of valid credentials that are managed separately.
+
 ## 📁 Repository Contents
 This repository is organized into the following directories:
 
