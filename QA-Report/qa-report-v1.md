@@ -22,7 +22,7 @@ This section provides a high-level overview of the test cases executed during th
 
 This chart provides a visual breakdown of the test case results.
 
-<img src="../Images/testcasedistributionchart.png" alt="Test Case Distribution Chart" width="500">
+<img src="../Images/testcasedistributionchart.png" alt="Test Cases Distribution Chart" width="500">
 
 ## 3. Defect Summary
 
@@ -36,9 +36,13 @@ This section provides an overview of the defects and queries found during the te
 
 This chart shows the distribution of bugs by their severity level. The majority of bugs are of Major severity, indicating significant usability issues.
 
+<img src="../Images/bugsdistributionbyseveritychart.png" alt="Bugs by Severity Distribution" width="500">
+
 ### Bugs by Priority
 
 This chart shows the number of bugs based on their priority level, which helps the team determine the order of fixes.
+
+<img src="../Images/bugsdistributionbyprioritychart.png" alt="Bugs by Priority Distribution" width="500">
 
 ## 4. Key Findings and Recommendations
 
