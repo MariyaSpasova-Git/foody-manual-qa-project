@@ -22,7 +22,7 @@ This section provides a high-level overview of the test cases executed during th
 
 This chart provides a visual breakdown of the test case results.
 
-![Test Case Distribution Chart](../Images/testcasedistributionchart.png)
+<img src="../Images/testcasedistributionchart.png" alt="Test Case Distribution Chart" width="500">
 
 ## 3. Defect Summary
 
