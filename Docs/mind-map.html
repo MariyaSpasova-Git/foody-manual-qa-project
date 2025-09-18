@@ -11,6 +11,7 @@
             height: 100%;
             overflow: hidden;
             font-family: 'Inter', sans-serif;
+            background-color: #ffffff; /* This is the new white background */
         }
         .container {
             width: 100%;
@@ -19,17 +20,18 @@
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            background-color: #f0f0f0;
+            background-color: #ffffff; /* This ensures the background is white */
         }
-        h1 {
-            color: #333;
-            margin: 20px 0;
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVJP5juqw=/?embedMode=view_only_without_ui&moveToViewport=-337,-987,5691,2575&embedId=889256318940" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+        <iframe src="https://miro.com/app/live-embed/uXjVJP5juqw=/?embedMode=view_only_without_ui" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
     </div>
 </body>
 </html>
