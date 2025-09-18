@@ -1,7 +1,9 @@
 # Manual QA Project (Foody App)
+
 This repository contains all documentation and artifacts from a manual QA project for the Foody app, a web application for creating, sharing and managing food-related content. The Foody app is a training application used for the purposes of the QA Fundamentals and Manual Testing course.
 
 ## 🎯 Project Goal
+
 The primary goal of this project was to perform comprehensive functional manual testing on the Foody app. The objectives included:
 
 - Creating and executing detailed test cases based on provided requirements.
@@ -11,6 +13,7 @@ The primary goal of this project was to perform comprehensive functional manual 
 - Providing a final report on the application's quality and functionality.
 
 ## 🚀 Getting Started
+
 To explore this project, you can follow these simple steps:
 
 - **Review the Requirements**: Start by reading the SRS and Use-Cases documents to understand the application's functionality.
@@ -26,6 +29,7 @@ To explore this project, you can follow these simple steps:
 For security and privacy reasons, test usernames and passwords have been intentionally omitted from the test cases and bug reports. All tests were executed using a set of valid credentials that are managed separately.
 
 ## 📁 Repository Contents
+
 This repository is organized into the following directories:
 
 - SRS/: The Software Requirements Specification (SRS) documentation. This document is a summarized version based on the original, copyrighted course material.
@@ -38,17 +42,24 @@ This repository is organized into the following directories:
 
 - QA-Report/: A folder containing the final QA report on the testing process and outcomes
 
+- Images/: A folder containing the charts and images used in the final QA report.
 
 ## 📊 Key Findings
-- **Total Test Cases**: 25
 
-- **Passed Test Cases**: 5
+- **Total Test Cases**: 96
 
-- **Failed Test Cases**: 20 (resulting in 20 bugs found)
+- **Passed Test Cases**: 74
 
-- **Total Bugs Found**: 20
+- **Failed Test Cases**: 21
+
+- **Blocked Test Cases**: 1
+
+- **Total Bugs Found**: 23
+
+- **Queries for Clarification**: 7
 
 ## 🛠 Tools and Technologies
+
 - **Testing Approach**: Functional Manual Testing
 
 - **Documentation**: Excel, Miro, Visual Studio Code
@@ -56,6 +67,7 @@ This repository is organized into the following directories:
 - **Version Control**: Git & GitHub
 
 ## 💻 Test Environment
+
 - **Operating System**: Microsoft Windows 11 Pro (64-bit)
 
 - **Browser**: Version 139.0.7258.138 (Official Build) (64-bit)
